@@ -63,14 +63,12 @@ Luego hay que crear una carpeta llamada store en la carpeta superior del compone
 En el `manifest.json` se debe declarar las dependencias que van a ser utilizadas en el componente deseado. En este caso:
 
 ```json
-...
 "dependencies": {
   "vtex.native-types": "0.x",
   "vtex.list-context": "0.x",
   "vtex.device-detector": "0.x",
   "vtex.css-handles": "0.x"
 },
-...
 ```
 
 ### Paso 5 - Editar el package.json
