@@ -90,7 +90,8 @@ Y repetiremos el mismo proceso con el `package.json` que hay dentro de la carpet
 
 Para este paso debes ingresar a la carpeta de react, y una vez allí debes ejecutar en tu consola 
 ```json
-itgloberspartnercl-categories-diagramation/react> yarn
+
+itglobers-bullets-diagrmation/react> yarn
 ```
 para que se instalen todas las dependencias necesarias
 
